@@ -1,0 +1,68 @@
+{
+  "slug": "basement-systems-of-indiana",
+  "name": "Basement Systems of Indiana",
+  "legalName": "Basement Systems of Indiana, LLC",
+  "address": {
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "basement-waterproofing",
+    "crawl-space-repair",
+    "foundation-repair",
+    "concrete-leveling",
+    "sump-pump-installation"
+  ],
+  "ownership": {
+    "type": "dealer-network",
+    "parent": "Basement Systems Inc. (Larry Janesky)",
+    "owners": [
+      {
+        "name": "Jeff Russell",
+        "role": "Manager",
+        "source": {
+          "label": "BBB profile (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.bbb.org/us/in/indianapolis/profile/basement-waterproofing/basement-systems-of-indiana-llc-0382-90023293"
+        }
+      }
+    ],
+    "notes": "BBB lists Larry Janesky (Basement Systems founder) as owner; local BBB file opened 2017. 1987 is the national brand's founding."
+  },
+  "founded": {
+    "value": 1987,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.9,
+      "count": 1052,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04",
+      "url": "https://www.bbb.org/us/in/indianapolis/profile/basement-waterproofing/basement-systems-of-indiana-llc-0382-90023293"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "Part of a national dealer network; local ownership not confirmed.",
+    "summary": "Indianapolis arm of the Basement Systems network founded by Larry Janesky in 1987. Large review base and a broad patented product line for basements, crawl spaces, foundations and concrete lifting.",
+    "openQuestions": [
+      "Exact local ownership structure"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

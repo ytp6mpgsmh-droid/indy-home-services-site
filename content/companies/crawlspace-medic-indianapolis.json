@@ -1,0 +1,55 @@
+{
+  "slug": "crawlspace-medic-indianapolis",
+  "name": "Crawlspace Medic of Indianapolis",
+  "address": {
+    "street": "1700 W Smith Valley Rd Suite C5",
+    "city": "Greenwood",
+    "county": "Johnson",
+    "state": "IN",
+    "zip": "46143"
+  },
+  "serviceAreas": [
+    "indianapolis",
+    "greenwood"
+  ],
+  "services": [
+    "crawl-space-repair"
+  ],
+  "ownership": {
+    "type": "franchise",
+    "parent": "Crawlspace Medic",
+    "notes": "Veteran-owned franchise; franchisee name not found."
+  },
+  "founded": {
+    "value": 2025,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 121,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A-",
+      "accredited": false,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "Franchise opened 2025.",
+    "summary": "Veteran-owned local franchise of the Crawlspace Medic brand, opened in Greenwood in 2025, focused on crawl space moisture control and structural repair.",
+    "openQuestions": [
+      "Franchisee owner",
+      "Foundation or sump services offered?"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "westfield",
+  "name": "Westfield",
+  "county": "Hamilton",
+  "indianapolisLicenseApplies": false,
+  "nearby": [
+    "carmel",
+    "noblesville"
+  ]
+}

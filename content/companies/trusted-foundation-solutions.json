@@ -1,0 +1,57 @@
+{
+  "slug": "trusted-foundation-solutions",
+  "name": "Trusted Foundation Solutions",
+  "address": {
+    "city": "Stilesville",
+    "county": "Hendricks",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "foundation-repair",
+    "crawl-space-repair",
+    "basement-waterproofing"
+  ],
+  "otherServices": [
+    "egress windows and doors"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Daron Gunst",
+        "role": "Owner (per Thumbtack)",
+        "source": {
+          "label": "Thumbtack listing (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://next-www.thumbtack.com/in/stilesville/house-foundation-repair-companies/daron-gunst/service/559058162726944796"
+        }
+      }
+    ]
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 33,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A-",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "unverified",
+    "statusReason": "Founding year not found.",
+    "summary": "Small Hendricks County firm (owner Daron Gunst per Thumbtack) doing basement wall repair, crawl space repair and egress windows.",
+    "openQuestions": [
+      "Founding year",
+      "Confirm owner"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

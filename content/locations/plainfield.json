@@ -1,0 +1,9 @@
+{
+  "slug": "plainfield",
+  "name": "Plainfield",
+  "county": "Hendricks",
+  "indianapolisLicenseApplies": false,
+  "nearby": [
+    "avon"
+  ]
+}

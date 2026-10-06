@@ -1,0 +1,14 @@
+{
+  "slug": "indianapolis",
+  "name": "Indianapolis",
+  "county": "Marion",
+  "indianapolisLicenseApplies": true,
+  "nearby": [
+    "carmel",
+    "fishers",
+    "greenwood",
+    "avon",
+    "brownsburg"
+  ],
+  "notes": "City license (Sec. 875-101) covers the Consolidated City; excludes Lawrence, Beech Grove, Speedway and Southport."
+}

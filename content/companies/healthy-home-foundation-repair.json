@@ -1,0 +1,80 @@
+{
+  "slug": "healthy-home-foundation-repair",
+  "name": "Healthy Home Foundation Repair",
+  "website": "https://healthyhomefoundationrepair.com/",
+  "address": {
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "foundation-repair",
+    "crawl-space-repair",
+    "basement-waterproofing"
+  ],
+  "otherServices": [
+    "commercial waterproofing"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Joshua Harper",
+        "role": "Co-owner",
+        "source": {
+          "label": "BBB profile (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.bbb.org/us/in/indianapolis/profile/waterproofing-contractors/healthy-home-foundation-repair-0382-90044184"
+        }
+      },
+      {
+        "name": "Todd Amos",
+        "role": "Co-owner",
+        "source": {
+          "label": "BBB profile (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.bbb.org/us/in/indianapolis/profile/waterproofing-contractors/healthy-home-foundation-repair-0382-90044184"
+        }
+      }
+    ],
+    "notes": "Veteran-owned."
+  },
+  "founded": {
+    "value": 2022,
+    "source": {
+      "label": "BBB: started 11/1/2022",
+      "checkedAt": "2026-10-06",
+      "url": "https://www.bbb.org/us/in/indianapolis/profile/waterproofing-contractors/healthy-home-foundation-repair-0382-90044184"
+    },
+    "verified": true
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 473,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04",
+      "url": "https://www.bbb.org/us/in/indianapolis/profile/waterproofing-contractors/healthy-home-foundation-repair-0382-90044184"
+    }
+  },
+  "editorial": {
+    "status": "borderline",
+    "statusReason": "Under 4 years in business (Nov 2022); becomes eligible Nov 2026. Very strong review volume.",
+    "summary": "Veteran-owned Indianapolis foundation repair, crawl space and waterproofing company co-owned by Joshua Harper and Todd Amos. Young (2022) but has built 470+ five-star Google reviews quickly.",
+    "bestFor": [
+      "Homeowners who weigh recent review volume heavily"
+    ],
+    "watchOuts": [
+      "Short track record for lifetime-warranty work"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

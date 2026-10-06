@@ -1,0 +1,53 @@
+{
+  "slug": "helitech",
+  "name": "Helitech Waterproofing & Foundation Repair",
+  "website": "https://helitechonline.com/",
+  "address": {
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "basement-waterproofing",
+    "crawl-space-repair",
+    "foundation-repair",
+    "concrete-leveling"
+  ],
+  "ownership": {
+    "type": "regional",
+    "parent": "Helitech (Caseyville, IL HQ)",
+    "notes": "Family-owned regional chain covering nine Midwest/South states; recently expanded into Indianapolis."
+  },
+  "founded": {
+    "value": 1987,
+    "source": {
+      "label": "Helitech site/BBB (via search)",
+      "checkedAt": "2026-10-06",
+      "url": "https://helitechonline.com/blog/indianapolis-indiana-welcomes-helitech-waterproofing-foundation-repair/"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 38,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "Out-of-state regional chain.",
+    "summary": "Illinois-based, family-owned regional chain (since 1987) that recently opened an Indianapolis office for waterproofing, crawl space encapsulation, foundation repair and concrete leveling. Ranks well on hire searches."
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

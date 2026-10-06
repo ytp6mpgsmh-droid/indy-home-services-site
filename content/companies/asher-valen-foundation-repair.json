@@ -1,0 +1,49 @@
+{
+  "slug": "asher-valen-foundation-repair",
+  "name": "Asher Valen Foundation Repair",
+  "address": {
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "foundation-repair"
+  ],
+  "ownership": {
+    "type": "local"
+  },
+  "founded": {
+    "value": 2025,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 21,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A-",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "Opened Dec 2025; under 25 reviews.",
+    "summary": "New (December 2025) Indianapolis foundation repair company. Little public information yet.",
+    "openQuestions": [
+      "Owner, website and services — nothing found in web search"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

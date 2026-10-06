@@ -1,0 +1,91 @@
+{
+  "slug": "jaco-waterproofing",
+  "name": "Jaco Waterproofing",
+  "legalName": "Jaco Waterproofing, LLC",
+  "website": "https://jacowaterproofing.com/",
+  "address": {
+    "street": "17241 Foundation Pkwy",
+    "city": "Westfield",
+    "county": "Hamilton",
+    "state": "IN",
+    "zip": "46074"
+  },
+  "serviceAreas": [
+    "indianapolis",
+    "westfield",
+    "carmel",
+    "fishers",
+    "noblesville"
+  ],
+  "services": [
+    "basement-waterproofing",
+    "foundation-repair",
+    "concrete-leveling"
+  ],
+  "otherServices": [],
+  "ownership": {
+    "type": "regional",
+    "parent": "Jaco Waterproofing (Fairfield, OH)",
+    "owners": [
+      {
+        "name": "Bill Sackenheim",
+        "role": "President",
+        "source": {
+          "label": "BBB / LinkedIn (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.bbb.org/us/in/westfield/profile/basement-waterproofing/jaco-waterproofing-llc-0382-90014654"
+        }
+      },
+      {
+        "name": "Matt Sackenheim",
+        "role": "VP / General Manager",
+        "source": {
+          "label": "BBB (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.bbb.org/us/in/westfield/profile/basement-waterproofing/jaco-waterproofing-llc-0382-90014654"
+        }
+      }
+    ],
+    "notes": "Brand dates to 1972 and is headquartered in Fairfield, OH, serving Indiana, Northern Kentucky and Cincinnati. Indiana LLC incorporated 1997."
+  },
+  "founded": {
+    "value": 1972,
+    "source": {
+      "label": "Company site and WCPO profile",
+      "checkedAt": "2026-10-06",
+      "url": "https://jacowaterproofing.com/"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.8,
+      "count": 288,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04",
+      "url": "https://www.bbb.org/us/in/westfield/profile/basement-waterproofing/jaco-waterproofing-llc-0382-90014654"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Long track record, 288 Google reviews, A+ accredited. PDF listed as 'Local' — actually a tri-state regional firm.",
+    "summary": "Waterproofing and foundation repair firm in business since 1972, run by the Sackenheim family, with its Indianapolis-area office in Westfield. Strong fit for north-side and Hamilton County basements.",
+    "bestFor": [
+      "Hamilton County (Westfield, Carmel, Fishers, Noblesville)",
+      "Basement waterproofing"
+    ],
+    "watchOuts": [
+      "Headquartered in Ohio — reclassify from 'local' to 'regional' on the site"
+    ],
+    "openQuestions": [
+      "Confirm sump pump and crawl space services",
+      "Confirm concrete leveling method (mudjacking vs. polyurethane foam)"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

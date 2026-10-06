@@ -1,0 +1,89 @@
+{
+  "slug": "michaelis-corporation",
+  "name": "Michaelis Corporation",
+  "phone": "317-251-1935",
+  "address": {
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "foundation-repair",
+    "crawl-space-repair",
+    "basement-waterproofing",
+    "concrete-leveling"
+  ],
+  "otherServices": [
+    "fire/water/storm restoration",
+    "mold remediation",
+    "roofing",
+    "insurance restoration"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Richard Michaelis",
+        "role": "President",
+        "source": {
+          "label": "LinkedIn profile",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.linkedin.com/in/richard-michaelis-a201a810/"
+        }
+      },
+      {
+        "name": "Lawrence O. Michaelis",
+        "role": "Founder",
+        "source": {
+          "label": "Company About page (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.michaeliscorp.com/about-us"
+        }
+      }
+    ],
+    "notes": "Family-owned general contractor; foundation/waterproofing is one division of a larger restoration business."
+  },
+  "founded": {
+    "value": 1982,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.5,
+      "count": 444,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04",
+      "url": "https://www.bbb.org/us/in/indianapolis/profile/fire-water-damage-restoration/michaelis-corporation-0382-6991"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Local, 40+ years, 444 Google reviews, A+ accredited.",
+    "summary": "Family-owned Indianapolis contractor founded by Lawrence O. Michaelis and now led by President Richard Michaelis. Best known for disaster restoration, it also does foundation repair, basement waterproofing, crawl space repair and concrete lifting, with 24/7 emergency service.",
+    "bestFor": [
+      "Water damage that also needs waterproofing",
+      "Insurance-claim restoration jobs",
+      "Homeowners who want one firm for restoration plus repair"
+    ],
+    "watchOuts": [
+      "Foundation work is one of many divisions; ask who does the structural work in-house vs. subcontracted"
+    ],
+    "openQuestions": [
+      "Founding year: BBB says 1982, company materials say 1986",
+      "Which pier/anchor systems they install"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

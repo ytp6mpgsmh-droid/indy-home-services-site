@@ -1,0 +1,59 @@
+{
+  "slug": "indiana-crawl-space-repair",
+  "name": "Indiana Crawl Space Repair",
+  "website": "https://www.indianacrawlspacerepair.com/",
+  "address": {
+    "street": "1759 N Blue Bluff Rd",
+    "city": "Martinsville",
+    "county": "Morgan",
+    "state": "IN",
+    "zip": "46151"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "crawl-space-repair",
+    "basement-waterproofing",
+    "foundation-repair"
+  ],
+  "otherServices": [],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Larry Ralph Jr.",
+        "role": "Owner",
+        "source": {
+          "label": "Company About page (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.indianacrawlspacerepair.com/about/"
+        }
+      }
+    ],
+    "notes": "Ralph family business; related to Americrawl (Mark Ralph)."
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.9,
+      "count": 228,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": null,
+      "accredited": false,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "borderline",
+    "statusReason": "No BBB profile found and founding year not stated.",
+    "summary": "Ralph-family crawl space, basement waterproofing and foundation company in Martinsville, owned by Larry Ralph Jr. Buys Local Services Ads on Indianapolis foundation searches.",
+    "openQuestions": [
+      "Founding year",
+      "BBB profile under another name?"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "a-1-indiana-waterproofing",
+  "name": "A-1 Indiana Waterproofing",
+  "address": {
+    "city": "Avon",
+    "county": "Hendricks",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis",
+    "avon"
+  ],
+  "services": [
+    "basement-waterproofing",
+    "foundation-repair"
+  ],
+  "ownership": {
+    "type": "local"
+  },
+  "founded": {
+    "value": 1976,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 3.1,
+      "count": 21,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": null,
+      "accredited": false,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "Under 25 Google reviews and a 3.1 average.",
+    "summary": "Long-running (1976) Avon waterproofing company with a small, mixed review record.",
+    "openQuestions": [
+      "Owner name"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

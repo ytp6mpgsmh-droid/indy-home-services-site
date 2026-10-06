@@ -1,0 +1,76 @@
+{
+  "slug": "smartcrawl",
+  "name": "SmartCrawl",
+  "legalName": "SmartCrawl, Inc.",
+  "website": "https://www.smartcrawl.net/",
+  "address": {
+    "street": "2916 N Graham Rd Ste A-B",
+    "city": "Franklin",
+    "county": "Johnson",
+    "state": "IN",
+    "zip": "46131"
+  },
+  "serviceAreas": [
+    "indianapolis",
+    "franklin",
+    "greenwood",
+    "carmel"
+  ],
+  "services": [
+    "crawl-space-repair",
+    "basement-waterproofing",
+    "foundation-repair"
+  ],
+  "otherServices": [
+    "crawl space maintenance plan",
+    "mold remediation"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Craig DuKate",
+        "role": "Owner / founder",
+        "source": {
+          "label": "SmartCrawl About page (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.smartcrawl.net/about-us"
+        }
+      }
+    ],
+    "notes": "Founder grew up in the family remodeling business (DuKate Fine Remodeling) from 1994."
+  },
+  "founded": {
+    "value": 2015,
+    "source": {
+      "label": "Company site; incorporated 8/11/2016",
+      "checkedAt": "2026-10-06",
+      "url": "https://www.smartcrawl.net/about-us"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.8,
+      "count": 73,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": false,
+      "checkedAt": "2026-10-04",
+      "url": "https://www.bbb.org/us/in/franklin/profile/crawl-space-contractors/smartcrawl-inc-0382-90024035"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Local, 10 years, 73 Google reviews, A+ (not accredited).",
+    "summary": "Franklin-based crawl space encapsulation, basement waterproofing and foundation repair company founded by Craig DuKate. Offers an ongoing crawl space maintenance plan, and publishes educational content that ranks for Indiana foundation-crack searches.",
+    "bestFor": [
+      "South side / Johnson County",
+      "Crawl space encapsulation with ongoing maintenance"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

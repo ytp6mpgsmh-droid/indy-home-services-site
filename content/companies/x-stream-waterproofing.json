@@ -1,0 +1,50 @@
+{
+  "slug": "x-stream-waterproofing",
+  "name": "X-Stream Waterproofing",
+  "address": {
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "basement-waterproofing"
+  ],
+  "ownership": {
+    "type": "unknown"
+  },
+  "founded": {
+    "value": 2018,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.8,
+      "count": 28,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": false,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "unverified",
+    "statusReason": "Ownership not verified.",
+    "summary": "Indianapolis waterproofing company (since 2018) with a small but positive review base.",
+    "openQuestions": [
+      "Owner",
+      "Services beyond waterproofing"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

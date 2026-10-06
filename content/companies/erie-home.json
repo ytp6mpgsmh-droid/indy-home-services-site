@@ -1,0 +1,44 @@
+{
+  "slug": "erie-home",
+  "name": "Erie Home",
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "basement-waterproofing"
+  ],
+  "ownership": {
+    "type": "national"
+  },
+  "founded": {
+    "value": 1975,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.7,
+      "count": 87,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "National company.",
+    "summary": "National home-improvement company (roofing and more) that buys Local Services Ads on Indianapolis basement waterproofing searches.",
+    "openQuestions": [
+      "Which waterproofing services it performs locally"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

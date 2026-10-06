@@ -1,0 +1,82 @@
+{
+  "slug": "hitman-solutions",
+  "name": "Hitman Solutions",
+  "website": "https://hitmansolutions.com/",
+  "phone": "317-643-2193",
+  "address": {
+    "street": "650 Patrick Pl",
+    "city": "Brownsburg",
+    "county": "Hendricks",
+    "state": "IN",
+    "zip": "46112"
+  },
+  "serviceAreas": [
+    "indianapolis",
+    "brownsburg",
+    "avon",
+    "plainfield"
+  ],
+  "services": [
+    "foundation-repair",
+    "crawl-space-repair",
+    "basement-waterproofing"
+  ],
+  "otherServices": [
+    "mold remediation",
+    "drainage / water management",
+    "real estate transaction inspections"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Michael Lawson",
+        "role": "Director, Business Development (not owner)",
+        "source": {
+          "label": "ZoomInfo (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.zoominfo.com/c/hitman-solutions/1327585039"
+        }
+      }
+    ],
+    "notes": "Owner not yet identified publicly."
+  },
+  "founded": {
+    "value": 2020,
+    "source": {
+      "label": "BBB profile: LLC incorporated 3/9/2020",
+      "checkedAt": "2026-10-06",
+      "url": "https://www.bbb.org/us/in/brownsburg/profile/foundation-repair/hitman-solutions-0382-90046363"
+    },
+    "verified": true
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 379,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04",
+      "url": "https://www.bbb.org/us/in/brownsburg/profile/foundation-repair/hitman-solutions-0382-90046363"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Local, 6 years, 379 Google reviews, A+ accredited (since 2023).",
+    "summary": "Brownsburg-based contractor covering foundation repair and stabilization, basement waterproofing, crawl space work and mold remediation across west-side Indianapolis. Reviews stress education-first inspections and clear explanations.",
+    "bestFor": [
+      "West side / Hendricks County homes",
+      "Mold plus moisture problems",
+      "Pre-sale inspection support for real estate deals"
+    ],
+    "openQuestions": [
+      "Owner name",
+      "Angi lists 'in business since 2025' — conflicts with 2020 LLC date"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

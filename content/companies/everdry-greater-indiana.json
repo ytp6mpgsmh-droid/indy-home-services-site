@@ -1,0 +1,54 @@
+{
+  "slug": "everdry-greater-indiana",
+  "name": "EverDry Waterproofing of Greater Indiana",
+  "address": {
+    "street": "5201 W Pike Plaza Rd",
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN",
+    "zip": "46254"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "basement-waterproofing",
+    "foundation-repair",
+    "crawl-space-repair"
+  ],
+  "ownership": {
+    "type": "franchise",
+    "parent": "EverDry Waterproofing"
+  },
+  "founded": {
+    "value": 1993,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.7,
+      "count": 823,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "Franchise.",
+    "summary": "Local franchise of the EverDry waterproofing brand, based on Indianapolis's northwest side. High review volume; ranks for basement waterproofing and bowing-wall searches.",
+    "openQuestions": [
+      "Franchisee owner name"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "swainco",
+  "name": "SwainCo. Crawl Space and Basement Repair",
+  "website": "https://swaincollc.com/",
+  "phone": "317-407-1868",
+  "address": {
+    "street": "500 Polk St #27",
+    "city": "Greenwood",
+    "county": "Johnson",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis",
+    "greenwood",
+    "franklin"
+  ],
+  "services": [
+    "crawl-space-repair",
+    "basement-waterproofing",
+    "sump-pump-installation",
+    "foundation-repair"
+  ],
+  "otherServices": [
+    "battery backup sump systems",
+    "vapor barriers",
+    "dehumidifiers",
+    "exterior drainage"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Adam Swain",
+        "role": "Owner",
+        "source": {
+          "label": "LinkedIn (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.linkedin.com/in/adam-swain-b9a75214/"
+        }
+      }
+    ],
+    "notes": "Second-generation: Adam's father Ken Swain started one of Central Indiana's first crawl space companies in the early 1980s."
+  },
+  "founded": {
+    "value": 2010,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.9,
+      "count": 62,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Local, 15+ years, 62 Google reviews, A+ accredited, 2020 BBB Torch Award.",
+    "summary": "Family-owned Greenwood company run by Adam Swain, whose family has worked in Indiana crawl spaces since 1980. Does crawl space repair, basement waterproofing with sump pumps and battery backups, dehumidification and foundation repair; lifetime warranty on its waterproofing system.",
+    "bestFor": [
+      "Sump pump + battery backup installs",
+      "Crawl space moisture control",
+      "South side / Greenwood"
+    ],
+    "openQuestions": [
+      "Founding year: sources say 2008, 2010 (BBB) and 2012"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

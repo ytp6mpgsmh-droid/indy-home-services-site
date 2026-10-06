@@ -1,0 +1,10 @@
+{
+  "slug": "greenwood",
+  "name": "Greenwood",
+  "county": "Johnson",
+  "indianapolisLicenseApplies": false,
+  "nearby": [
+    "franklin",
+    "indianapolis"
+  ]
+}

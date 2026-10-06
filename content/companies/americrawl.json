@@ -1,0 +1,71 @@
+{
+  "slug": "americrawl",
+  "name": "Americrawl",
+  "legalName": "Americrawl Midwest, Inc.",
+  "address": {
+    "street": "5855 Kopetsky Dr",
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "crawl-space-repair",
+    "basement-waterproofing",
+    "foundation-repair"
+  ],
+  "otherServices": [],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Mark Ralph",
+        "role": "Owner / founder",
+        "source": {
+          "label": "Americrawl Meet the Team (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.americrawl.com/about-us/meet-the-team/5488_mark-ralph"
+        }
+      }
+    ],
+    "notes": "Part of the Ralph family (in home-improvement industry since 1947). Indiana Crawl Space Repair is owned by relative Larry Ralph Jr."
+  },
+  "founded": {
+    "value": 1993,
+    "source": {
+      "label": "Company About page (BBB says 1990)",
+      "checkedAt": "2026-10-06",
+      "url": "https://www.americrawl.com/about-us"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.8,
+      "count": 46,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Local, 30+ years, 46 Google reviews, A+ accredited.",
+    "summary": "Indianapolis crawl space, basement waterproofing and foundation repair company founded by Mark Ralph, carrying on a Ralph-family home-improvement legacy. Runs paid Local Services Ads on the main Indianapolis searches.",
+    "bestFor": [
+      "Crawl space repair",
+      "Long-tenured local firm"
+    ],
+    "openQuestions": [
+      "Website structure resembles the Basement Systems dealer network — confirm whether it is a dealer",
+      "Founding year 1990 vs 1993"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

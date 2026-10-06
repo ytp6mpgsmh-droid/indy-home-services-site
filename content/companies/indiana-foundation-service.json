@@ -1,0 +1,57 @@
+{
+  "slug": "indiana-foundation-service",
+  "name": "Indiana Foundation Service (Groundworks)",
+  "address": {
+    "street": "624 N Front St",
+    "city": "Whiteland",
+    "county": "Johnson",
+    "state": "IN",
+    "zip": "46184"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "foundation-repair",
+    "basement-waterproofing",
+    "crawl-space-repair",
+    "sump-pump-installation",
+    "concrete-leveling"
+  ],
+  "ownership": {
+    "type": "national",
+    "parent": "Groundworks",
+    "notes": "Local firm since ~1993; partnered with / acquired by Groundworks in 2016 and now operates as Groundworks – Indianapolis."
+  },
+  "founded": {
+    "value": 1992,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.6,
+      "count": 2214,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "not-vetted",
+    "statusReason": "Nationally owned (Groundworks) — fails the locally-owned bar.",
+    "summary": "The largest foundation company in the market by review count. Founded locally in the early 1990s, it joined national roll-up Groundworks in 2016 and now operates as Groundworks Indianapolis from Whiteland, offering every service in our scope.",
+    "bestFor": [
+      "Homeowners who prefer a national company's warranty backing"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false,
+  "otherServices": []
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "acculevel",
+  "name": "Acculevel",
+  "website": "https://acculevel.com/",
+  "address": {
+    "city": "Rossville",
+    "county": "Clinton",
+    "state": "IN"
+  },
+  "serviceAreas": [
+    "indianapolis",
+    "carmel",
+    "fishers",
+    "greenwood"
+  ],
+  "services": [
+    "foundation-repair",
+    "basement-waterproofing",
+    "crawl-space-repair",
+    "concrete-leveling"
+  ],
+  "otherServices": [
+    "slab jacking",
+    "wall anchors / braces"
+  ],
+  "ownership": {
+    "type": "regional",
+    "owners": [
+      {
+        "name": "Andy Beery",
+        "role": "Founder & CEO",
+        "source": {
+          "label": "Acculevel blog (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://acculevel.com/acculevel-a-foundation-repair-company-built-on-family-values/"
+        }
+      },
+      {
+        "name": "Nolan Beery",
+        "role": "Sales & Marketing Director",
+        "source": {
+          "label": "Acculevel blog (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://acculevel.com/acculevel-a-foundation-repair-company-built-on-family-values/"
+        }
+      },
+      {
+        "name": "Neil Beery",
+        "role": "Director of Operations",
+        "source": {
+          "label": "Acculevel blog (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://acculevel.com/acculevel-a-foundation-repair-company-built-on-family-values/"
+        }
+      }
+    ],
+    "notes": "Indiana-owned, family-run, multi-state (Great Lakes / Midwest). Five Indianapolis-area map listings."
+  },
+  "founded": {
+    "value": 1995,
+    "source": {
+      "label": "Indy Foundation Lead-Gen Site — Research & Plan (Google Maps + bbb.org, Oct 4 2026)",
+      "checkedAt": "2026-10-04"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 4.8,
+      "count": 49,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Indiana-owned, 30 years, A+ accredited. Multi-state, so flagged as a judgment call in the PDF.",
+    "summary": "Family-run foundation repair, waterproofing, crawl space and concrete leveling company founded by Andy Beery in Rossville, Indiana, now operating across several Midwest states with his sons. The strongest content publisher in this market — it ranks for most foundation searches.",
+    "bestFor": [
+      "Foundation repair across the metro",
+      "Concrete slab leveling"
+    ],
+    "openQuestions": [
+      "Founding year: BBB 1995 vs company 1996",
+      "Which of the five Indy listings to cite for ratings"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

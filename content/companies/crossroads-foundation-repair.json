@@ -1,0 +1,75 @@
+{
+  "slug": "crossroads-foundation-repair",
+  "name": "Crossroads Foundation Repair",
+  "legalName": "Crossroads Foundation Repair, LLC",
+  "website": "https://www.crossroadsfoundationrepair.com/",
+  "phone": "765-296-4615",
+  "address": {
+    "street": "6274 E 375 S",
+    "city": "Lafayette",
+    "county": "Tippecanoe",
+    "state": "IN",
+    "zip": "47905"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "foundation-repair",
+    "basement-waterproofing",
+    "crawl-space-repair"
+  ],
+  "otherServices": [
+    "helical piers",
+    "push piers"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Kyle Leman",
+        "role": "Owner",
+        "source": {
+          "label": "BBB profile (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.bbb.org/us/in/indianapolis/profile/foundation-repair/crossroads-foundation-repair-llc-0382-90025791"
+        }
+      }
+    ]
+  },
+  "founded": {
+    "value": 2018,
+    "source": {
+      "label": "BBB: incorporated 1/25/2018",
+      "checkedAt": "2026-10-06",
+      "url": "https://www.bbb.org/us/in/indianapolis/profile/foundation-repair/crossroads-foundation-repair-llc-0382-90025791"
+    },
+    "verified": true
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 26,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Indiana-owned, 8 years, 26 Google reviews, A+ accredited. Just over the review bar.",
+    "summary": "Indiana-owned foundation repair and waterproofing company led by Kyle Leman, based in Lafayette with a newer Indianapolis location. Stabilizes settling foundations with steel push piers and helical piers, and publishes strong cost content.",
+    "bestFor": [
+      "Settling foundations needing piers",
+      "Homeowners who want pricing explained up front"
+    ],
+    "watchOuts": [
+      "Do not use 'Crossroads' in our own domain/brand"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}

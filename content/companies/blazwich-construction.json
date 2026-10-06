@@ -1,0 +1,78 @@
+{
+  "slug": "blazwich-construction",
+  "name": "Blazwich Construction",
+  "legalName": "Blazwich Construction, LLC",
+  "website": "https://blazwichwaterproofing.com/",
+  "address": {
+    "street": "4012 Village Trace Blvd",
+    "city": "Indianapolis",
+    "county": "Marion",
+    "state": "IN",
+    "zip": "46254"
+  },
+  "serviceAreas": [
+    "indianapolis"
+  ],
+  "services": [
+    "crawl-space-repair",
+    "basement-waterproofing",
+    "sump-pump-installation",
+    "foundation-repair"
+  ],
+  "otherServices": [
+    "crawl space / basement insulation",
+    "mold remediation",
+    "structural wood repair"
+  ],
+  "ownership": {
+    "type": "local",
+    "owners": [
+      {
+        "name": "Shannon Blazwich",
+        "role": "Member / owner",
+        "source": {
+          "label": "BBB profile (via search)",
+          "checkedAt": "2026-10-06",
+          "url": "https://www.bbb.org/us/in/indianapolis/profile/crawl-space-contractors/blazwich-construction-llc-0382-90025950"
+        }
+      }
+    ]
+  },
+  "founded": {
+    "value": 2013,
+    "source": {
+      "label": "HomeGuide listing (BBB start date is 2014)",
+      "checkedAt": "2026-10-06",
+      "url": "https://homeguide.com/in/indianapolis/insulation-contractors/blazwich-construction-PrbndFBnO"
+    },
+    "verified": false
+  },
+  "ratings": {
+    "google": {
+      "rating": 5.0,
+      "count": 174,
+      "checkedAt": "2026-10-04"
+    },
+    "bbb": {
+      "grade": "A+",
+      "accredited": true,
+      "checkedAt": "2026-10-04",
+      "url": "https://www.bbb.org/us/in/indianapolis/profile/crawl-space-contractors/blazwich-construction-llc-0382-90025950"
+    }
+  },
+  "editorial": {
+    "status": "vetted",
+    "statusReason": "Local, 12 years, 174 Google reviews at 5.0, A+ accredited.",
+    "summary": "Owner-operated Indianapolis crawl space specialist (Shannon Blazwich). Focuses on encapsulation, crawl space and basement waterproofing, sump pumps, insulation and structural wood repair under the floor.",
+    "bestFor": [
+      "Crawl space encapsulation",
+      "Sagging floors from rotted joists/beams",
+      "Owner-on-site small company feel"
+    ],
+    "openQuestions": [
+      "LinkedIn shows Shannon Blazwich as a former foreman at a Crawl Space Doctor — confirm background before publishing"
+    ]
+  },
+  "lastReviewed": "2026-10-06",
+  "paidRelationship": false
+}
