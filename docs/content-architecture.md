@@ -8,13 +8,25 @@ Git-tracked JSON + MDX files instead of a database. There are about 20 companies
 content/
   companies/<slug>.json      one file per contractor: facts + sources + editorial
   locations/<slug>.json      Indianapolis + suburbs (county, licensing rules, neighbors)
-  services/<slug>.mdx        5 pillar guides (one per service)
+  services/<slug>.mdx        6 pillar guides (one per service)
   guides/<slug>.mdx          cost / how-to / comparison articles (frontmatter: service, cities, updated)
 src/lib/content/
   schema.ts                  Zod schemas; the single source of truth for fields
   companies.ts               loaders + the public ranking rule
 scripts/validate-content.mts `npm run validate:content`
 ```
+
+## Navigation (agreed 2026-10-07)
+
+```
+[Logo]  Problems ▾  Services ▾  Costs ▾  Contractors ▾  How We Rank   [Compare Contractors]
+```
+
+* **Problems** `/problems/<symptom>/`: cracks, wet basement, bowing walls, sagging floors, crawl space moisture, sticking doors/windows, sinking concrete, mold/musty smell. Each one routes to the services that fix it.
+* **Services**: Foundation Repair, Basement Waterproofing, Crawl Space Repair, Sump Pumps, Concrete Leveling, Mold Removal.
+* **Costs** `/costs/`: summary table linking to each service's `/cost/` page.
+* **Contractors** `/contractors/`: directory, profiles at `/contractors/<slug>/`, and `/contractors/how-to-choose/`.
+* Footer: About, Disclosures, Contact, areas served.
 
 ## URL map (topic silos)
 
@@ -27,8 +39,9 @@ scripts/validate-content.mts `npm run validate:content`
 | `/foundation-repair/indianapolis/` | **Money page**: best companies | foundation repair indianapolis (320) |
 | `/basement-waterproofing/…` | Same pattern: pillar, `/cost/`, `/interior-vs-exterior/`, `/indianapolis/` | basement waterproofing cost (9.9k, KD 7) |
 | `/crawl-space-repair/…`, `/sump-pump-installation/…`, `/concrete-leveling/…` | Same pattern | |
+| `/mold-removal/…` | Same pattern + `/mold-removal/do-it-yourself-or-hire/` (EPA 10 sq ft rule) | mold removal indianapolis |
 | `/<service>/<city>/` | City pages, added only once a city has 3+ real companies and unique local copy | foundation repair carmel |
-| `/companies/<slug>/` | Contractor profile | "<company name> reviews" |
+| `/contractors/<slug>/` | Contractor profile | "<company name> reviews" |
 | `/how-we-rank/`, `/disclosures/`, `/about/`, `/contact/` | Trust pages (E-E-A-T, FTC) | |
 
 The pillar links down to its guides and its city pages. Each guide links up to the pillar and across to the money page. Each company profile links to every service and city page it appears on.

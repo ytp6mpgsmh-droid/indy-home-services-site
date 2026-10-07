@@ -11,6 +11,7 @@ export const SERVICE_SLUGS = [
   "basement-waterproofing",
   "sump-pump-installation",
   "concrete-leveling",
+  "mold-removal",
 ] as const;
 export const ServiceSlug = z.enum(SERVICE_SLUGS);
 export type ServiceSlug = z.infer<typeof ServiceSlug>;

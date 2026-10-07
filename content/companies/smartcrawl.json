@@ -19,11 +19,11 @@
   "services": [
     "crawl-space-repair",
     "basement-waterproofing",
-    "foundation-repair"
+    "foundation-repair",
+    "mold-removal"
   ],
   "otherServices": [
-    "crawl space maintenance plan",
-    "mold remediation"
+    "crawl space maintenance plan"
   ],
   "ownership": {
     "type": "local",
