@@ -3,7 +3,7 @@
 ## Answer given to Wix AI
 
 ```
-Yes, the site collects leads, but there are no payments or purchases on the site. Homeowners fill out a free "Get matched with a contractor" form (name, phone, email, ZIP code, service needed, short description of the problem, timeline, and optionally the contractor they prefer). On submit: (1) the homeowner gets an automatic confirmation email, (2) I get an email alert with the details, and (3) the submission is saved as a new row in a Google Sheet. (4) the lead is emailed automatically to the contractor the homeowner selected. Contractors are billed separately, outside the website, per qualified lead. Phone leads will be tracked later with CallRail call-tracking numbers on contractor profile pages, added as custom code.
+Yes, the site collects leads, but there are no payments or purchases on the site. Homeowners fill out a free "Get matched with a contractor" form (name, phone, email, ZIP code, service needed, short description of the problem, timeline, and optionally the contractor they prefer). On submit: (1) the homeowner gets an automatic confirmation email, (2) I get an email alert with the details, (3) the submission is saved as a new row in a Google Sheet, and (4) the lead is emailed automatically to the contractor the homeowner selected. Contractors are billed separately, outside the website, per qualified lead. Phone leads will be tracked later with CallRail call-tracking numbers on contractor profile pages, added as custom code.
 ```
 
 ## Stages
