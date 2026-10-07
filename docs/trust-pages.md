@@ -28,3 +28,15 @@ Full Disclosures page:
 > We are not a contractor, engineer or inspector, and our guides are general information, not professional advice for your home. Questions or corrections: [email].
 
 Data: each company's `paidRelationship` field drives the "Participating contractor" label.
+
+## Origin story (About page + Wix AI answer)
+
+Real motive: market research showed Indianapolis foundation searches were easy to rank for. Don't put that on the site, and don't invent a personal foundation disaster. Use what the research actually found, which is true:
+
+```
+I started IndyFoundationGuide after researching what Indianapolis homeowners find when they search for help with foundation cracks, wet basements or crawl space problems. The answers were scattered: Reddit threads, contractor sales pages, out-of-state companies writing about Chicago or Fort Wayne, and national directories that don't make clear who pays them. There was no single, honest, Indianapolis-specific place to learn what's wrong, what it should cost here, and which local companies have a track record. So I built one: plain-English guides, real local costs, and contractor comparisons based only on public, checkable data.
+
+Search-engine optimization is the top priority for this site, so please build it SEO-first: one clear H1 per page with H2/H3 subheadings, editable page titles and meta descriptions, short clean URLs that match the page names (for example /foundation-repair/cost), descriptive image alt text, compressed images, fast mobile loading, breadcrumbs, internal links between related guides, and no text inside images. Avoid heavy animations, sliders, pop-ups and video backgrounds that slow pages down.
+```
+
+Add a personal detail only if it's true (for example: you own an older Indy home with a basement, or a friend or family member got conflicting repair quotes).
