@@ -26,7 +26,8 @@ scripts/validate-content.mts `npm run validate:content`
 * **Services**: Foundation Repair, Basement Waterproofing, Crawl Space Repair, Sump Pumps, Concrete Leveling, Mold Removal.
 * **Costs** `/costs/`: summary table linking to each service's `/cost/` page.
 * **Contractors** `/contractors/`: directory, profiles at `/contractors/<slug>/`, and `/contractors/how-to-choose/`.
-* Footer: About, Disclosures, Contact, areas served.
+* Footer: About, Disclosures, Contact, areas served, News.
+* **News** `/news/<slug>/` (Wix Blog with the URL prefix changed from `/post/` to `/news/`): 1–2 dated posts a month, not in the main menu. Only timely content: quarterly Contractor Report Card updates, seasonal checklists (spring thaw, heavy rain, freeze), local weather or drought events, Indianapolis price survey results. Every post links to its matching evergreen guide. Evergreen guides are never blog posts; they're regular pages that get updated in place with a visible "Last updated" date.
 
 ## URL map (topic silos)
 
