@@ -20,6 +20,7 @@ Only work on the next unchecked step. Who does it: **You** · **Claude** (this p
 - [ ] 11. **Claude:** Draft About, How We Rank, Disclosures, Contact and Privacy Policy.
 - [ ] 12. **You:** Add your real name and photo, then send Disclosures and Privacy Policy to the attorney.
 - [ ] 13. **Chrome:** Place the approved text on the pages.
+- [ ] 13a. **Claude + Chrome:** Build the Get a Quote page and form (spec in `funnel.md`), the Thank You page, the Google Sheet and the email automations. It goes live at launch with the attorney-approved consent wording.
 
 ## Phase 4: Content, easiest SEO wins first (weeks 3–8)
 For each page: Claude drafts it, you read and fact-check it, Chrome places it and sets the SEO title and description.
@@ -32,12 +33,12 @@ For each page: Claude drafts it, you read and fact-check it, Chrome places it an
 - [ ] 20. Costs summary page, then the homepage (last, because it links to everything)
 
 ## Phase 5: Launch (week 8–9)
-- [ ] 21. **You + Chrome:** Final check: no [placeholders] or [CHECK] left; one H1 per page; every page looks right on a phone; homepage scores well in PageSpeed Insights.
+- [ ] 21. **You + Chrome:** Final check: submit a test quote request and confirm the emails and Sheet row arrive; no [placeholders] or [CHECK] left; one H1 per page; every page looks right on a phone; homepage scores well in PageSpeed Insights.
 - [ ] 22. **You:** Turn off "Coming soon," publish, and submit the sitemap in Search Console.
 
 ## Phase 6: After launch (months 1–6)
 - [ ] 23. **You:** Get the first links: email each listed contractor, contact home inspectors and realtors, and answer questions helpfully on r/indianapolis and local Facebook groups.
 - [ ] 24. **Claude + You:** Publish 1–2 news posts a month, and refresh the contractor data and cost guides every quarter.
-- [ ] 25. **Once visitors arrive:** Add the lead form (with attorney-approved consent wording), the Google Sheet and the automations.
+- [ ] 25. **You:** Answer every quote request the same day. Until contractors opt in, requests come to you: call the homeowner's chosen contractor, tell them you have a homeowner who wants a quote, and offer free trial leads.
 - [ ] 26. **You:** Offer contractors 3–5 free trial leads, then per-lead pricing. Add CallRail when the first contractor pays.
 - [ ] 27. **Month 6:** Check whether the cost guides are on Google's first page and visits are growing, then plan the next pages.

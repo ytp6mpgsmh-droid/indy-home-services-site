@@ -16,7 +16,7 @@ A free, independent consumer guide for Indianapolis-metro homeowners (Indianapol
 
 **SEO comes first.** One H1 per page, H2 for sections, H3 inside them. Short, clean, lowercase URLs exactly as listed below (set the page slug and parent page). Fast and mobile-first: no sliders, carousels, video backgrounds, pop-ups or heavy animation; no text inside images. Descriptive link text, image alt text, breadcrumbs, and "By [Your name] · Last updated [date]" under the H1 of every guide.
 
-**Menu:** Problems ▾ · Services ▾ · Costs · Contractors ▾ · How We Rank · button "Compare Contractors" → /contractors
+**Menu:** Problems ▾ · Services ▾ · Costs · Contractors ▾ · How We Rank · button "Get Free Quotes" → /get-a-quote
 **Footer:** About, How We Rank, Disclosures, Contact, Privacy Policy, Areas We Serve, News
 
 **Pages and URLs**
@@ -25,6 +25,7 @@ A free, independent consumer guide for Indianapolis-metro homeowners (Indianapol
 - Services (each with /cost and /indianapolis child pages): /foundation-repair, /basement-waterproofing, /crawl-space-repair, /sump-pump-installation, /concrete-leveling, /mold-removal
 - /costs (summary table linking to each /cost page)
 - /contractors (directory), /contractors/{company-slug} (profiles), /contractors/how-to-choose
+- Conversion: /get-a-quote (the quote request form) and /thank-you (shown after submitting; hidden from search)
 - Trust: /how-we-rank, /disclosures, /about, /contact, /privacy-policy, /areas-we-serve
 - News: blog posts, footer only, never the main menu. Guides are always Pages, never Posts.
 

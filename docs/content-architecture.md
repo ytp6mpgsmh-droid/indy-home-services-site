@@ -19,13 +19,14 @@ scripts/validate-content.mts `npm run validate:content`
 ## Navigation (agreed 2026-10-07)
 
 ```
-[Logo]  Problems ▾  Services ▾  Costs ▾  Contractors ▾  How We Rank   [Compare Contractors]
+[Logo]  Problems ▾  Services ▾  Costs ▾  Contractors ▾  How We Rank   [Get Free Quotes]
 ```
 
 * **Problems** `/problems/<symptom>/`: cracks, wet basement, bowing walls, sagging floors, crawl space moisture, sticking doors/windows, sinking concrete, mold/musty smell. Each one routes to the services that fix it.
 * **Services**: Foundation Repair, Basement Waterproofing, Crawl Space Repair, Sump Pumps, Concrete Leveling, Mold Removal.
 * **Costs** `/costs/`: summary table linking to each service's `/cost/` page.
 * **Contractors** `/contractors/`: directory, profiles at `/contractors/<slug>/`, and `/contractors/how-to-choose/`.
+* **Get Free Quotes** button → `/get-a-quote/` (the conversion page; see `funnel.md`). `/thank-you/` follows a submission and is hidden from search.
 * Footer: About, Disclosures, Contact, areas served, News.
 * **News**: feed page at `/news-and-updates/`, posts at `/news/<slug>/` (Wix Blog post prefix changed from `post` to `news`; Wix won't let the feed page and the post prefix share the same word): 1–2 dated posts a month, not in the main menu. Only timely content: quarterly Contractor Report Card updates, seasonal checklists (spring thaw, heavy rain, freeze), local weather or drought events, Indianapolis price survey results. Every post links to its matching evergreen guide. Evergreen guides are never blog posts; they're regular pages that get updated in place with a visible "Last updated" date.
 

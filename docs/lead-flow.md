@@ -10,8 +10,8 @@ Yes, the site collects leads, but there are no payments or purchases on the site
 
 | Stage | When | What happens |
 |---|---|---|
-| 1. Launch | Day 1 | No form yet. GA4 click tracking on contractor phone/website links; Search Console. |
-| 2. Form with automatic routing | First steady traffic | Form → lead emailed straight to the selected contractor (owner BCC'd) + confirmation to homeowner + Google Sheet row. "Match me" requests go to the owner to route by hand. Owner reviews the Sheet daily and marks spam/duplicates as not billable. |
+| 1. Launch | Day 1 | /get-a-quote form live. Every request comes to the owner ("Match me" routing) until contractors opt in; owner calls the chosen contractor to offer free trial leads. GA4 tracks form submissions and clicks on contractor phone/website links. |
+| 2. Automatic routing | First contractors opt in | Form → lead emailed straight to the selected contractor (owner BCC'd) + confirmation to homeowner + Google Sheet row. "Match me" requests go to the owner to route by hand. Owner reviews the Sheet daily and marks spam/duplicates as not billable. |
 | 3. Free trials | Contractors opted in (3–5 free leads each) | Same flow; only opted-in contractors appear in the dropdown. |
 | 4. CallRail | First contractor agrees to pay per lead | One tracking number per paying contractor on their profile page. Calls forward to the contractor and are logged. A call counts as qualified only if it is a first-time caller, lasts 60+ seconds, is in the service area and is for a covered service. |
 
