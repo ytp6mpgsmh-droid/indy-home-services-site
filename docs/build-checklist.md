@@ -8,7 +8,7 @@ Only work on the next unchecked step. Who does it: **You** · **Claude** (this p
 - [ ] 3. **You:** Turn on automatic backups.
 - [ ] 4. **You:** Turn on "Coming soon" mode so nobody sees the half-built site.
 - [ ] 5. **You + Chrome:** Pick the theme (newest "Twenty Twenty-…" default, or Kadence/GeneratePress) in light mode, then apply our colors and fonts.
-- [ ] 6. **Chrome:** Settings → Permalinks → "Post name". Install an SEO plugin (Yoast or Rank Math). Set the site title and make the homepage a static page.
+- [ ] 6. **Chrome:** Settings → Permalinks → Custom Structure `/news/%postname%/` (pages keep short addresses like /costs; news posts get /news/post-name). Install an SEO plugin (Yoast or Rank Math). Set the site title and make the homepage a static page.
 - [ ] 7. **You:** Book a one-hour attorney call. The questions are in the plan PDF, plus the disclosure and form-consent wording.
 
 ## Phase 2: Build the skeleton (week 2)
