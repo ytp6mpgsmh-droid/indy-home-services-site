@@ -12,7 +12,7 @@ Only work on the next unchecked step. Who does it: **You** · **Claude** (this p
 - [ ] 7. **You:** Book a one-hour attorney call. The questions are in the plan PDF, plus the disclosure and form-consent wording.
 
 ## Phase 2: Build the skeleton (week 2)
-- [ ] 8. **Chrome:** Create every page as an empty draft with the right URL and parent page (list in `claude-in-chrome-brief.md`).
+- [ ] 8. **Chrome:** Create every page as an empty draft with the right URL and parent page (full list in `page-list.md`).
 - [ ] 9. **Chrome:** Build the main menu and the footer.
 - [ ] 10. **You + Chrome:** Connect Google Search Console and Google Analytics (the Site Kit plugin does both).
 
